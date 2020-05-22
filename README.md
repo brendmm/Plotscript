@@ -1,3 +1,7 @@
+Course Website found at https://filebox.ece.vt.edu/~ECE3574/.
+To see Plotscript capabilities, look at different milestones on the website. These milestones are where new guidelines for the project were presented.
+
+
 Introduction
 -------------
 

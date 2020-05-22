@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\notebook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\input_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\output_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\notebook_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\Build\notebook_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\input_widget.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\output_widget.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\notebook_app.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B90CD0E0-B9E3-3B68-9ED9-4F1DB6AA972E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9C757E72-44F9-3D28-BCEB-3DB79C9027D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

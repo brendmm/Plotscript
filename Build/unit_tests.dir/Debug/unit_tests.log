@@ -1,0 +1,8 @@
+﻿  atom_tests.cpp
+  environment_tests.cpp
+  expression_tests.cpp
+  interpreter_tests.cpp
+  parse_tests.cpp
+  Generating Code...
+  unit_tests.vcxproj -> C:\Users\brend\Documents\ECE\2018-2019\Fall Semester\Applied\plotscript-brendmm\Build\Debug\unit_tests.exe
+  unit_tests.vcxproj -> C:/Users/brend/Documents/ECE/2018-2019/Fall Semester/Applied/plotscript-brendmm/Build/Debug/unit_tests.pdb (Full PDB)
